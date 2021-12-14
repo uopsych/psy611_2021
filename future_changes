@@ -1,0 +1,41 @@
+
+* take out cronbach and meehl
+
+* during week 1 of lecture, tell students to download and install R and RStudio and make sure they can open both on their machines at home _before lab_ 
+
+* 2-validity.html
+  * nomological net could use more unpacking
+  * take out cronbach and meehl
+  * focus more on internal and external
+  * move construct validity to end -- follow with latent variable lecture?
+  
+* in week 3 - evaluate order of first 5 lectures
+
+* lab-1.html
+  * take out section on installing R and RStudio, move to separate page on website and Canvas
+  * make a mini hack to set up projects (set up project for lab 1 or homework 1)
+  
+* 5-latent variables.html
+  * IAT example works well -- maybe bring back the IAT at the end?, or split it up (introduce measure at beginning and discuss later)
+  
+* 6-probability.html
+  * demo today good (something similar for sampling error)
+  
+* lab-3.html
+  * Students liked that they did the minihacks "together" -- first have an opportunity to try on their own, and share in chat. then GE did the minihack live. resulted in more attendance
+  * recommend more visuals
+  * start with input (what does my data look like)
+
+* 8-normal.html
+  * include distributions of chi-sq and F
+  
+* lab-4.html
+  * emphasize connection to simulation
+  * expect this to be shorter
+  * add use of dnorm to create figure
+  
+* 9-sampling.html
+  * keep excel spreadsheet!
+
+*11-nhst.html 
+  * be prepared to teach this lecture twice. 
